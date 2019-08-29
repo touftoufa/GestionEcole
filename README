@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-printf("ajoute TS1 TS2 TL1A TL2B ");
+printf("ajoute Penda Sarr en TS2 ");
 return 0;
 }
 
