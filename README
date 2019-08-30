@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-printf("hello world");
+printf("ajoute Penda Sarr en TS2");
 return 0;
 }
 
