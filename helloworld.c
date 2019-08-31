@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main( )
 {
-printf("Hello World! This is Geeksforgeeks.org ")
+printf("Bonjour ,Bienvenu(e) dans mon application de gestion du Lycée d’Excellence de Dakar " );
 return 0;
 }
